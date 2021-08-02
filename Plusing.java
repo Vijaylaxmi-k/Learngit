@@ -16,7 +16,7 @@ public int sub(int a, int b)
 	{
 		Plusing obj = new Plusing();
 		System.out.println("add of numb:" +obj.add(5, 10));
-		System.out.println("add of numb:" +obj.sub(5, 10));
+		System.out.println("add of numb:" +obj.sub(10, 5));
 
 	}
 
