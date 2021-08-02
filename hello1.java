@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("hi changes");
 =======
 		System.out.println("hello");
-                 System.out.println("how r u"):
+                 System.out.println("how r u");
+		system.out.println("kulkarni");
 	}
 }
