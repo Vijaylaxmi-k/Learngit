@@ -7,9 +7,6 @@ public class Hello {
 		System.out.println("hi changes");
 =======
 		System.out.println("hello");
-		//display how r u here 
->>>>>>> 8fe9143e514e42182a5878d8d5b5f931bcb7b2b6
-
+                 System.out.println("how r u"):
 	}
-
 }
