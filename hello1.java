@@ -9,7 +9,11 @@ public class Hello {
 
 		System.out.println("hello");
                  System.out.println("how r u");
+<<<<<<< HEAD
 		 System.out.println("vijaylaxmi-k");
+=======
+		system.out.println("kulkarni");
+>>>>>>> 026298d2167ffe60a7ab05644c70850960f8dbfc
 	}
 } 
 
